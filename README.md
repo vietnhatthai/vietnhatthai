@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a computer science.
 <!--
 **vietnhatthai/vietnhatthai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
