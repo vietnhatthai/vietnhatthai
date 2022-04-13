@@ -6,4 +6,4 @@ I'm a computer science.
 <a href="https://github.com/vietnhatthai?tab=followers"><img src="https://img.shields.io/github/followers/vietnhatthai"></a>
 <a href="mailto:thaivietnhat02@gmail.com"><img src="https://img.shields.io/badge/Email-thaivietnhat02@gmail.com-blue" alt="Email" /></a>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/vietnhathai/vietnhathai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/vietnhathai/vietnhathai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/vietnhathai/vietnhathai/output/github-contribution-grid-snake.svg)
