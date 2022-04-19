@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+ฅ^•ﻌ•^ฅ
 I'm a computer science.
 
 <a href="https://github.com/vietnhatthai"><img src="https://komarev.com/ghpvc/?username=vietnhatthai" alt="vietnhatthai" /></a>
