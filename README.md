@@ -1,4 +1,4 @@
-### Hi there ฅ^•ﻌ•^ฅ
+### Hi there ᨐᵉᵒʷ
 
 I'm a computer science.
 
