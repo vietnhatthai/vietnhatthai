@@ -17,6 +17,6 @@ I'm a computer science.
 
 [//]: < ![Stat](https://github-readme-stats.vercel.app/api?username=vietnhatthai&show_icons=true&theme=onedark) >
 
-![Stat](https://github-readme-stats.vercel.app/api/top-langs?username=vietnhatthai&theme=onedark&include_all_commits=true&count_private=true&layout=compact)
+![Stat](https://github-readme-stats.vercel.app/api/top-langs?username=vietnhatthai&theme=onelight&include_all_commits=true&count_private=true&layout=compact|https://github-readme-stats.vercel.app/api/top-langs?username=vietnhatthai&theme=onedark&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
