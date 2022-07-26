@@ -3,13 +3,7 @@
   
 I'm a computer science.
 
-<div align="center">
-
-<table border="0">
-
-<tr>
-  <td style="width: 50%; border: None;">
-  <a href="https://github.com/vietnhatthai">
+<a href="https://github.com/vietnhatthai">
   <!--   <img src="https://komarev.com/ghpvc/?username=vietnhatthai" alt="vietnhatthai" /> -->
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=vietnhatthai">
@@ -30,6 +24,20 @@ I'm a computer science.
     <img src="https://img.shields.io/badge/Email-tvnhat20@apcs.fitus.edu.vn-blue" alt="Email" />
   </a>
 
+
+<div align="center">
+
+<table border="0">
+
+<tr>
+  <td style="width: 50%; border: None;">
+  <div align="center">
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vietnhatthai&show_icons=true&theme=onelight">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vietnhatthai&show_icons=true&theme=onedark">
+        <img alt="Show readme stats">
+      </picture>
+    </div>
   </td>
 
   <td style="width: 50%; border: None;">
