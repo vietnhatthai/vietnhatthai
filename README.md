@@ -9,6 +9,7 @@ I'm a computer science.
 <a href="mailto:tvnhat20@apcs.fitus.edu.vn"><img src="https://img.shields.io/badge/Email-tvnhat20@apcs.fitus.edu.vn-blue" alt="Email" /></a>
 
 
+[//]: < TODO: Remove border in table. >
 <table border="0">
 <tr>
   <td style="width: 50%; border: None;">
