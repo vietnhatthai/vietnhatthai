@@ -8,12 +8,7 @@ I'm a computer science.
 <table border="0">
 
 <tr>
-    <td style="width: 50%"></td>
-    <td style="width: 50%"></td>
-</tr>
-
-<tr>
-  <td>
+  <td style="width: 50%; border: None;">
   <a href="https://github.com/vietnhatthai">
   <!--   <img src="https://komarev.com/ghpvc/?username=vietnhatthai" alt="vietnhatthai" /> -->
     <picture>
@@ -37,7 +32,7 @@ I'm a computer science.
 
   </td>
 
-  <td>
+  <td style="width: 50%; border: None;">
   <div align="center">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vietnhatthai&theme=onelight&include_all_commits=true&count_private=true&layout=compact">
