@@ -21,8 +21,8 @@ I'm a computer science.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vietnhatthai&theme=onedark&include_all_commits=true&count_private=true&layout=compact">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vietnhatthai&theme=onedark&include_all_commits=true&count_private=true&layout=compact">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vietnhatthai&theme=onelight&include_all_commits=true&count_private=true&layout=compact">
+  <img alt="Show stast">
 </picture>
   
 </div>
