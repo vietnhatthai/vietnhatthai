@@ -15,8 +15,8 @@ I'm a computer science.
   <td style="width: 50%; border: None;">
     <div align="center">
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vietnhatthai&show_icons=true&theme=onelight">
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vietnhatthai&show_icons=true&theme=onedark">
+        <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vietnhatthai&theme=github">
+        <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vietnhatthai&theme=github_dark">
         <img alt="Show stats">
       </picture>
     </div>
@@ -25,8 +25,8 @@ I'm a computer science.
   <td style="width: 50%; border: None;">
     <div align="center">
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vietnhatthai&theme=onelight&include_all_commits=true&count_private=true&layout=compact">
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=vietnhatthai&theme=onedark&include_all_commits=true&count_private=true&layout=compact">
+        <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vietnhatthai&theme=github">
+        <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vietnhatthai&theme=github_dark">
       <img alt="Show stats">
       </picture>
     </div>
