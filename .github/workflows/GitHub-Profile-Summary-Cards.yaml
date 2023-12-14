@@ -9,6 +9,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v3
@@ -17,6 +19,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "output"
           # UTC_OFFSET is optional, default to zero
           UTC_OFFSET: 8
-          BRANCH_NAME: "output"
