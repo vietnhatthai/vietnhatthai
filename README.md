@@ -7,7 +7,7 @@ I'm a computer science.
 <a href="https://github.com/vietnhatthai?tab=followers"><img src="https://img.shields.io/github/followers/vietnhatthai"></a>
 <a href="https://www.linkedin.com/in/vietnhatthai"><img src="https://img.shields.io/badge/LinkedIn-vietnhatthai-blue" alt="LinkedIn" /></a>
 <a href="mailto:tvnhat20@apcs.fitus.edu.vn"><img src="https://img.shields.io/badge/Email-tvnhat20@apcs.fitus.edu.vn-blue" alt="Email" /></a>
-<a href="https://vietnhatthai.github.io"><img src="https://img.shields.io/badge/Website-vietnhatthai.github.io-blue" alt="Website" /></a>
+<a href="https://www.vietnhatthai.space"><img src="https://img.shields.io/badge/Website-vietnhatthai.space-blue" alt="Website" /></a>
 
 [//]: < TODO: Remove border in table. >
 <table border="0">
