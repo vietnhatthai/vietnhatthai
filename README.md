@@ -25,8 +25,8 @@ I'm a computer science.
   <td style="width: 50%; border: None;">
     <div align="center">
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vietnhatthai/vietnhatthai/main/profile-summary-card-output/github/2-most-commit-language.svg">
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vietnhatthai/vietnhatthai/main/profile-summary-card-output/github_dark/2-most-commit-language.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vietnhatthai/vietnhatthai/main/profile-summary-card-output/github/4-productive-time.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vietnhatthai/vietnhatthai/main/profile-summary-card-output/github_dark/4-productive-time.svg">
       <img alt="Show stats">
       </picture>
     </div>
