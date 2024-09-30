@@ -48,3 +48,7 @@ I'm a computer science.
 [//]: < ![Stat](https://github-readme-stats.vercel.app/api?username=vietnhatthai&show_icons=true&theme=onedark) >
 
 [//]: < ![Stat](https://github-readme-stats.vercel.app/api/top-langs?username=vietnhatthai&theme=onedark&include_all_commits=true&count_private=true&layout=compact) >
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
