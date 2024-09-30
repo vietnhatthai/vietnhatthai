@@ -21,4 +21,4 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: "output"
           # UTC_OFFSET is optional, default to zero
-          UTC_OFFSET: 8
+          UTC_OFFSET: 7
